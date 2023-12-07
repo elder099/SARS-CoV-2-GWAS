@@ -21,7 +21,7 @@ ___
     - Extract gisaid entries in a loop using accessions from matched data
     - Deduplicate gisaid extracts by GISAID Acc #
     - (Insert % ref coverage filtering here)
-## Outputs:
+### Outputs:
     - Demographic 1:3 case-control matched data (Matched_Dem2_Metadata.csv)
     - Sequences from gisaid extracts in fasta format (GISAID_Seqs.fasta)
 ___
