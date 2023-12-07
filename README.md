@@ -1,6 +1,19 @@
-# SARS-CoV-2 GWAS Pipeline
+# SARS-CoV-2 GWAS Introduction
+GWAS has been used to detect a variety of human diseases – many related to cancer. A well-known example is the discovery of breast cancer risk mutations in the BRCA1/BRCA2 genes.
+GWAS has also been used to reveal insights into microbial genetic risk factors for infectious diseases. This project sought to identify those SNP-level genetic risk factors in the SARS-CoV-2 viral genome using a California genomic surveillance dataset integrating genomic and epidemiological data.
+<br/><br/>
 
-![alt text](https://github.com/elder099/SARS-CoV-2-GWAS/blob/main/SC2_GWAS_Figure.png)
+<p align="center">
+    <img src=https://github.com/elder099/SARS-CoV-2-GWAS/blob/main/SC2_GWAS_Figure.png>
+</p>
+
+<p align="center">
+    <b>Figure 1.</b> Diagram which shows the skewed SARS-CoV-2 viral genotype (red) frequency which GWAS seeks to identify between two phenotypically different populations.
+</p>
+
+<br/><br/>
+
+# SARS-CoV-2 GWAS Pipeline
 
 
 ## **Step 1: GWAS_IGED_CR_JOIN_Filtering.R**
